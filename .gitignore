@@ -1,0 +1,5 @@
+*__pycache__
+*.sw*
+data
+fairseq
+models
